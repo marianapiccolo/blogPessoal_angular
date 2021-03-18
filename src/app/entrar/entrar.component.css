@@ -1,0 +1,9 @@
+#img-bg{
+    background-image: url('http://cdn5.colorir.com/desenhos/color/202008/uma-pequena-flor-natureza-flores-1564340.jpg');
+  
+    min-height: 695px;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
